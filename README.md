@@ -43,4 +43,4 @@ Bu proje özel bir API servisi kullanmaktadır. Çalıştırmak için kendi API 
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone https://github.com/Hakankrc/Android-Contact-App.git
